@@ -20,3 +20,4 @@
 - Код должен быть написан в соответствии с https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions
 
 Используемые технологии: .Net 9.0, xUnit, EF MS SQL
+(В папке DB находится бэкап БД, а также скриншоты с используемыми таблицами)
