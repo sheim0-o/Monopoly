@@ -4,3 +4,9 @@
 
 /.vs/Monopoly
 /obj/Debug/net9.0
+/MonopolyProject/.vs
+/MonopolyProject/bin/Debug/net9.0
+/MonopolyProject/Migrations
+/MonopolyProject/obj
+/MonopolyTests/bin/Debug/net9.0
+/MonopolyTests/obj
