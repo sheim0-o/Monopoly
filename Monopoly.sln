@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35828.75 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monopoly", "Monopoly.csproj", "{3C9E51FB-EFA5-42ED-8D76-EECCC8F14180}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monopoly", "MonopolyProject\Monopoly.csproj", "{014278FD-7922-D487-3D47-360D421CC7A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonopolyTests", "MonopolyTests\MonopolyTests.csproj", "{623F15D2-4C8A-46E6-9DD0-FDCB6E8142F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +13,19 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3C9E51FB-EFA5-42ED-8D76-EECCC8F14180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3C9E51FB-EFA5-42ED-8D76-EECCC8F14180}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3C9E51FB-EFA5-42ED-8D76-EECCC8F14180}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3C9E51FB-EFA5-42ED-8D76-EECCC8F14180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{014278FD-7922-D487-3D47-360D421CC7A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{014278FD-7922-D487-3D47-360D421CC7A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{014278FD-7922-D487-3D47-360D421CC7A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{014278FD-7922-D487-3D47-360D421CC7A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{623F15D2-4C8A-46E6-9DD0-FDCB6E8142F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{623F15D2-4C8A-46E6-9DD0-FDCB6E8142F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{623F15D2-4C8A-46E6-9DD0-FDCB6E8142F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{623F15D2-4C8A-46E6-9DD0-FDCB6E8142F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {70019864-D340-46F0-948E-56B52E36ECCB}
+		SolutionGuid = {BB25FFAF-6F2A-42A5-9C8A-F79F7F95B5E8}
 	EndGlobalSection
 EndGlobal
